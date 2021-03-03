@@ -10,17 +10,17 @@
 
 <br>
 
-### Adding the clock with single line
+### Adding the clock with single line (24 hour format).
 ```html
-<script src="https://cccaaannn.github.io/digitalClock/src/js/cccaaannnTime.js"></script>
+<script src="https://cccaaannn.github.io/digitalClock/src/js/cccaaannnTimeOneLine.js"></script>
 ```
 
-### To add clock to custom divs
+### 12 hour format in one line.
 ```html
-<script src="https://cccaaannn.github.io/digitalClock/src/js/cccaaannnTime.js" args={"divs":"t1,t2,t3,t4,t5"}></script>
+<script src="https://cccaaannn.github.io/digitalClock/src/js/cccaaannnTimeOneLine.js" args={"is24":"false"}></script>
 ```
 
-### There is also 12 hour format
+### To add clock to custom divs, use `12hour` or `24hour` classes with this script.
 ```html
-<script src="https://cccaaannn.github.io/digitalClock/src/js/cccaaannnTime.js" args={"divs":"t1,t2","is24":"false"}></script>
+<script src="https://cccaaannn.github.io/digitalClock/src/js/cccaaannnTimeCustom.js"></script>
 ```
