@@ -1,5 +1,5 @@
 # digitalClock
-### single line digital clock for adding sites.
+### Single line digital clock for adding websites.
 
 ---
 ![GitHub top language](https://img.shields.io/github/languages/top/cccaaannn/digitalClock?style=flat-square) ![](https://img.shields.io/github/repo-size/cccaaannn/digitalClock?style=flat-square) [![GitHub license](https://img.shields.io/github/license/cccaaannn/digitalClock?style=flat-square)](https://github.com/cccaaannn/digitalClock/blob/master/LICENSE)
