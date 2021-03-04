@@ -1,6 +1,17 @@
+body{
+    background-color: #0259bd81;
+}
+
+.container{
+    margin: auto;
+    width: 50%;
+    border: 2px solid #343A40;
+    padding: 1em;
+}
+
 .t1{
     background-color : #343A40;
-    color : #568bff;
+    color : #02e702;
     font-family:  Arial, Helvetica, sans-serif;
     font-size  : 2.5em;
     display : inline-block;
@@ -11,35 +22,78 @@
 }
 
 .t2{
-    background-color : #a5a5a5;
-    color : #ff360e;
+    background-color : #3f3535;
+    color : #ff2a00;
     font-size  : 2.5em;
     display : inline-block;
     padding-left : 5px;
     padding-right : 5px;
     border-radius :17px;
     margin : 3px;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
 }
 
 .t3{
-    background-color : #405d27;
-    color : #89c548;
+    background-color : #4faa00;
+    color : #7b00a0;
     font-family:  Arial, Helvetica, sans-serif;
-    font-size  : 4em;
+    font-weight: bold;
+    font-size  : 2em;
     display : inline-block;
-    padding-left : 5px;
-    padding-right : 5px;
-    margin : 3px;
+    padding: 0.1em;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
+    border: 1px solid #7b00a0;
 }
 
 .t4{
     background-color : #000000;
     color : #d64161;
     font-family:  Arial, Helvetica, sans-serif;
-    font-size  : 2em;
+    font-size  : 4em;
+    text-align: center;
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+    padding: 0.2em;
+    border: 15px dotted #d64161;
+}
+
+.t5{
+    background-color : #007979;
+    color : #ffffff;
+    font-family: "Cursive";
+    font-size  : 2.5em;
     display : inline-block;
-    padding-left : 5px;
-    padding-right : 5px;
-    border-radius :7px;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
     margin : 3px;
+    border: 1px solid #ffffff;
+}
+
+.t6{
+    background-color : #ff004c;
+    color : #000000;
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size  : 2.5em;
+    font-weight: bold;    
+    display : inline-block;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
+    margin : 3px;
+}
+
+.t7{
+    background-color : #ffd900;
+    color : #e64900;
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size  : 2.5em;
+    font-weight: bold;
+    display : inline-block;
+    border-radius : 50px;
+    padding: 7px;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
+    margin : 3px;
+    border: 2px solid #e64900;
 }
